@@ -1,0 +1,25 @@
+.card-img {
+    width: 20vw;
+    height: 20vw;
+    border-radius: 0 !important;
+}
+
+.card {
+    height: fit-content;
+    cursor: pointer;
+}
+
+.card-name, .card-price {
+    font-family: "Inter", sans-serif;
+    font-size: 1.5em;
+    padding-left: 1rem;
+}
+
+.card-name {
+    margin-top: 0.5rem;
+}
+
+.card-price {
+    font-size: 1em;
+    color: #FF5500;
+}
